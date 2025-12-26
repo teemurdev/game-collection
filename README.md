@@ -3,7 +3,7 @@ This project contains a set of small browser-based games that I have created to 
 The project is under development.
 
 ## ▶️ Play the Games
-You can play the games here: LINK TO GAMES (coming soon).
+You can play the games here: [https://teemurdev.github.io/game-collection/](https://teemurdev.github.io/game-collection/).
 
 ## 🕹️ Games Included
 - Tic-Tac-Toe
